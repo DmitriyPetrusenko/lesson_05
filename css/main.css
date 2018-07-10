@@ -1,0 +1,26 @@
+* { font-family: monospace, Arial; }
+.logo {
+  position: fixed;
+  bottom:45px;
+  left:45px;
+  color: green;
+  font-size:12px;
+}
+body {
+background-color: 	black;
+}
+img {
+	height: max-auto;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+#elem {
+	text-align: right;
+	font-size: 22px;
+	background-size: 100%;
+	margin-left: 500px;
+	margin-top: 200px;
+	color: green;
+	height: 190px;
+	width: 400px;
+
